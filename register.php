@@ -41,7 +41,7 @@
                     Male <input type="radio" class="form-control" name="gender" value="Male">
                 </label>
                 <label>
-                    Female <input type="radio" class="form-control" name="gender" value="Fenale">
+                    Female <input type="radio" class="form-control" name="gender" value="Female">
                 </label>
             </div>
 
