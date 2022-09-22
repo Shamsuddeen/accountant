@@ -14,7 +14,7 @@
 
     <div class="container">
         <form action="#" method="POST">
-            <legend>Reset Account</legend>
+            <legend>Reset Account Password</legend>
 
             <div class="form-group">
                 <label for="email">Email</label>
