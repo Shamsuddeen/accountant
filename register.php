@@ -50,7 +50,8 @@
                 <input type="password" class="form-control" id="password" name="password" placeholder="Password">
             </div>
 
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary">Create Account</button>
+            <p>Already have an account? <a href="./login.php">Login</a></p>
         </form>
 
 
