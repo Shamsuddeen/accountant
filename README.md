@@ -10,3 +10,9 @@ An accounting and finance management system. Developed at Development Hub (<http
 - QR Payments
 - Income and Expense Management
   
+## Technologies Used
+
+- Bootstrap
+- PHP
+- MySQL
+- jQuery
