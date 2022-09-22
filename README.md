@@ -1,2 +1,3 @@
 # DH Accountant
-An accounting and finance management system. Developed ad DH Web Development Class
+
+An accounting and finance management system. Developed at Development Hub (<https://developmenthub.ng>) Web Development Class
